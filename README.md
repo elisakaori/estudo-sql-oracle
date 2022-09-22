@@ -1,5 +1,7 @@
 # estudo-sql-oracle
 Resolução de exercícios - SQL Oracle
+
+
 Seguindo seus estudos em SQL
 
 Criar um banco de dados ORACLE com as seguintes tabelas :
